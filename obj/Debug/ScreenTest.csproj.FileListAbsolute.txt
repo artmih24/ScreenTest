@@ -1,0 +1,10 @@
+C:\Users\artem\Desktop\Мои программы\Проверка экрана\ScreenTest\bin\Debug\ScreenTest.exe.config
+C:\Users\artem\Desktop\Мои программы\Проверка экрана\ScreenTest\bin\Debug\ScreenTest.exe
+C:\Users\artem\Desktop\Мои программы\Проверка экрана\ScreenTest\bin\Debug\ScreenTest.pdb
+C:\Users\artem\Desktop\Мои программы\Проверка экрана\ScreenTest\obj\Debug\ScreenTest.csprojAssemblyReference.cache
+C:\Users\artem\Desktop\Мои программы\Проверка экрана\ScreenTest\obj\Debug\ScreenTest.Form1.resources
+C:\Users\artem\Desktop\Мои программы\Проверка экрана\ScreenTest\obj\Debug\ScreenTest.Properties.Resources.resources
+C:\Users\artem\Desktop\Мои программы\Проверка экрана\ScreenTest\obj\Debug\ScreenTest.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\Мои программы\Проверка экрана\ScreenTest\obj\Debug\ScreenTest.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Мои программы\Проверка экрана\ScreenTest\obj\Debug\ScreenTest.exe
+C:\Users\artem\Desktop\Мои программы\Проверка экрана\ScreenTest\obj\Debug\ScreenTest.pdb
